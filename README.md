@@ -19,7 +19,6 @@
             <li>Graph for Country with MOst no. of available TV Shows</li>
             <li>Graph for Cast with Most no. of TV Shows</li>
             <li>Graph for most popular Genre for TV Shows</li>
-            <li>Graph for Cast with Most no. of Movies</li>
+            <li>Graph for Cast with Most no. of TV Shows</li>
         </ol>
 </ol>
- 
