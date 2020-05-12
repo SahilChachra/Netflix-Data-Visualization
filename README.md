@@ -5,7 +5,7 @@
     <li>Graph for No. of Movies vs No. of TV Shows</li>
     <li>Graph for Country having most no. of Movies and TV Shows available</li>
     <li>Graph for Year in which most no. of Shows/Movies added</li>
-    <ul><li>Movies</li></ul>
+    <ul><li style="fontsize:15">Movies</li></ul>
     <ol>
     <li>Graph for Average duration of Movies</li>
     <li>Graph for Director with Most no. of Movies</li>
