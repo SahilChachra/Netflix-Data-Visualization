@@ -2,7 +2,7 @@
 
 <div align='center'>
 <img src='https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif'><br>
-Downloaded from tenor.com
+Above GIF has been downloaded from tenor.com
 </div>
 
 <div align= "center">
