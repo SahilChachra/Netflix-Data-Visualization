@@ -1,7 +1,7 @@
 <h1 align="center">Netflix Data Visualization</h1>
 
 <div align='center'>
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif) <br>
+<img src='https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif'><br>
 Downloaded from tenor.com
 </div>
 
