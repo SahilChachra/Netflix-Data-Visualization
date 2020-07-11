@@ -1,6 +1,19 @@
-<H1>Netflix Data Visualization, Kaggle</H1>
-<H3>Kaggle Link : <a href="https://www.kaggle.com/shivamb/netflix-shows">Netflix Movies and TV Shows</a><H3>
-<H3>Topics Covered</H3>
+<h1 align="center">Netflix Data Visualization</h1>
+
+<div align= "center">
+  <h4>Netflix Data Visualization is built using Seaborn and Matplotlib in Python.</h4>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## :innocent: Motivation
+From past few years, Netflix has become very famous as a choice to watch movies and tv shows online. But have you ever think of how many series are there? Or how many movies they have? Which country has most movies available? This list goes on :laugh:. So out of this curiosity, I came up with this visualization project to know more about Netflix. 
+
+ 
+## :hourglass: Few Sample PLots
+
+
+## :star: Features
 <ol>
     <li>Graph for No. of Movies vs No. of TV Shows</li>
     <li>Graph for Country having most no. of Movies and TV Shows available</li>
@@ -22,3 +35,13 @@
             <li>Graph for Cast with Most no. of TV Shows</li>
         </ol>
 </ol>
+
+
+## :file_folder: Dataset
+The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/shivamb/netflix-shows)
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
+
+## :eyes: License
+MIT © [Sahil Chachra]()
