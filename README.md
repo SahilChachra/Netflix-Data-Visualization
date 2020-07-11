@@ -12,6 +12,13 @@ From past few years, Netflix has become very famous as a choice to watch movies 
  
 ## :hourglass: Few Sample PLots
 
+![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/CastWithMostNumMovies.png)
+
+![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/CastWithMostNumTvShow.png)
+
+![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/DirectorWithMostMovies.png)
+
+![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/MostMoviesFromSpeificGenre.png)
 
 ## :star: Features
 <ol>
@@ -44,4 +51,4 @@ The dataset used can be downloaded here (Kaggle) - [Click to Download](https://w
 Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
-MIT © [Sahil Chachra]()
+MIT © [Sahil Chachra](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/LICENSE)
