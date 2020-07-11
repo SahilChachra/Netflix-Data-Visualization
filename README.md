@@ -1,7 +1,9 @@
 <h1 align="center">Netflix Data Visualization</h1>
 
-![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif)
+<div align='center'>
+![](https://github.com/SahilChachra/Netflix-Data-Visualization/blob/master/sampleImages/tenor.gif) <br>
 Downloaded from tenor.com
+</div>
 
 <div align= "center">
   <h4>Netflix Data Visualization is built using Seaborn and Matplotlib in Python.</h4>
