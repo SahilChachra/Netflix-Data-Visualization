@@ -12,7 +12,7 @@ Above GIF has been downloaded from tenor.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :innocent: Motivation
-From past few years, Netflix has become very famous as a choice to watch movies and tv shows online. But have you ever think of how many series are there? Or how many movies they have? Which country has most movies available? This list goes on :laugh:. So out of this curiosity, I came up with this visualization project to know more about Netflix. 
+From past few years, Netflix has become very famous as a choice to watch movies and tv shows online. But did you ever think - how many series are there? Or how many movies they have? Which country has most movies available? This list goes on :giggle:. So out of this curiosity, I came up with this visualization project to know more about Netflix. 
 
  
 ## :hourglass: Few Sample PLots
